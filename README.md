@@ -1,8 +1,10 @@
-# flutter_application_1
-
+# Spotify Clone
+web Link : https://spotify-two-rho.vercel.app/#/
 A new Flutter project.
 
 ## Getting Started
+make using flutter and muusic toon api
+i learn this project how create the model and make  ui 
 
 This project is a starting point for a Flutter application.
 
